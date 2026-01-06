@@ -1,0 +1,13 @@
+# Dependências
+/node_modules
+
+# Arquivo de variáveis de ambiente
+.env
+
+# Pasta de uploads
+/uploads
+
+# Pasta de uploads
+/public/uploads
+
+*.log
